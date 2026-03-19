@@ -1,1 +1,1 @@
-# alex-mortel-gcp-cloud-resume-challenge
+# alex-mortel-gcp-cloud-resume-challenge (ongoing)
